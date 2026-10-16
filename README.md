@@ -1,6 +1,4 @@
-#  SeqVerify: Scalable Formal Verification of Transformers and Recurrent Neural Networks for Dependable Event Time-Series Systems
-
-This repository contains the related material of our work: Spy Inside：Formal Verification of Dependable Transformers and Recurrent Neural Networks Against Adversarial Perturbations for Event Time Series Analysis.
+#  SeqVerify: Candidate--Correction Verification for Trustworthy Neural Event-Series Systems
 
 ## Preparation
 
